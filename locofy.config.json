@@ -1,0 +1,10 @@
+
+{
+  "components": {
+    "Leaderboard": "https://raw.githubusercontent.com/Ashikrahman123/task/main/src/components/Leaderboard.jsx",
+    "TaskProgress": "https://raw.githubusercontent.com/Ashikrahman123/task/main/src/components/TaskProgress.jsx",
+    "Meetings": "https://raw.githubusercontent.com/Ashikrahman123/task/main/src/components/Meetings.jsx",
+    "Dashboard": "https://raw.githubusercontent.com/Ashikrahman123/task/main/src/components/Dashboard.jsx",
+    "TaskCard": "https://raw.githubusercontent.com/Ashikrahman123/task/main/src/components/TaskCard.jsx"
+  }
+}
